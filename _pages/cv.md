@@ -17,10 +17,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Statics
+  * University of Arizona
+  * Instructor
 
 * Fall 2015: Research Assistant
   * Github University
