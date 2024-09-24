@@ -17,14 +17,17 @@ Education
 
 Work experience
 ======
+* Fall 2025: CyVerse Data Science Fellow
+  * University of Arizona
+
 * Summer 2024: Statics
   * University of Arizona
   * Instructor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020 - Fall 2025: Graduate Research Assistant
+  * University of Arizona
+  * Duties included: 
+  * Supervisor: Distinguished Professor Robert B. Fleischman
 
 * Summer 2015: Research Assistant
   * Github University
