@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Statics"
 collection: Undergraduate Course
 type: "Lecture"
 permalink: /teaching/2015-spring-teaching-1
