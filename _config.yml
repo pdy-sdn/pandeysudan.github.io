@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sudan Pandey"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Structural and Wind Engineer"
+  location         : "Tucson, AZ"
+  employer         : "The University of Arizona"
   uri              : # URL
   email            : "pandeysudan@arizona.edu" 
 
