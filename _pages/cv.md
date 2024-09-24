@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Structural Engineering, University of Arizona, 2025 (expected)
+* M.E. in Structural Engineering, Asian Institute of Technology, Thailand, 2017
+* B.E. in Civil Engineering, Tribhuvan University, Nepal, 2015
 
 Work experience
 ======
