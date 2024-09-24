@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 2"
-collection: teaching
+collection: Undergraduate Course
 type: "Lecture"
 permalink: /teaching/2015-spring-teaching-1
 venue: "The University of Arizona, Civil Engineering"
