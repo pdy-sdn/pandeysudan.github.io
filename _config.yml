@@ -12,7 +12,7 @@ title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Sudan Pandey"
 description              : &description "Structural Engineer"
-url                      : https://pdy-sdn.github.io/pandeysudan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pandeysudan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pdy-sdn/pandeysudan.github.io"
 
