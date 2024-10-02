@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -21,14 +21,14 @@ repository               : "pdy-sdn/pandeysudan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.photo.sp.jpg"
+  avatar           : "2024_Sudan-2.jpg"
   name             : "Sudan Pandey"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Structural and Wind Engineer"
   location         : "Tucson, AZ"
   employer         : "The University of Arizona"
   uri              : # URL
-  email            : "pandeysudan@arizona.edu" 
+  email            : "pandeysudan@arizona.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,8 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "pdy-sdn"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
@@ -78,7 +78,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
