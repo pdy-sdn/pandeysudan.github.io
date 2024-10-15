@@ -1,7 +1,7 @@
 ---
 title: "Development of modal hysteretic model for the seismic response analysis of tall buildings with RC shear wall"
 collection: publications
-category: Conference
+category: Conference Papers
 permalink: /publication/2019-10-01-paper-title-number-1
 excerpt: 'This paper is about the modified flag shaped hysteresis model.'
 date: 2019-10-01
