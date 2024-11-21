@@ -21,7 +21,7 @@ My research interests are in the seismic and wind engineering. I would like to c
 
 
 # Selected Experience
-I have two years of working as a performance based seismic design engineer.
+I have two years of work experience in a performance based seismic design.
 
 I have three years of experience with wind tunnel testing of high rise buildings.
 
