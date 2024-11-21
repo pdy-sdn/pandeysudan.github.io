@@ -1,6 +1,6 @@
 ---
 title: "Civil Engineering Materials Lab"
-collection: Undergraduate Course
+collection: teaching
 type: "Lab and Lecture"
 permalink: /teaching/2022-fall-teaching-1
 venue: "The University of Arizona, Civil Engineering"

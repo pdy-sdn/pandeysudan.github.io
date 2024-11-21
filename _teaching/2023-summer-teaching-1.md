@@ -1,7 +1,7 @@
 ---
 title: "Statics"
 collection: teaching
-type: "Undergraduate course"
+type: "Lecture"
 permalink: /teaching/2023-summer-teaching-1
 venue: "University of Arizona, Civil Engineering Department"
 date: 2023-06-01
