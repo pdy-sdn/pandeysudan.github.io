@@ -16,6 +16,7 @@ I am currently working on steel seismic collectors, which are crucial in transfe
 
 ![Nepali Architecture](/images/structure.jpg){: .align-right width="300px"}
 
+![profile](/images/2024_Sudan-2.jpg){: .align-left width="300px"}
 
 # Research Interests
 My research interests are in the seismic and wind engineering. I would like to contribute in making our build environment resilient. I have a work experience in performance based seismic design and wind tunnel testing of high rise buildings.
