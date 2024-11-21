@@ -14,4 +14,4 @@ I am a Ph.D. graduate at the University of Arizona.
 I am currently working on steel seismic collectors, which are crucial in transferring the inertial force from the floor or roof diaphragm during a seismic event to the vertical components of the seismic force resisting system.
 
 ![Illustration of Nepali Architecture](/
-  images/structural_engineer_profile_image.jpeg){: .align-right width="300px"}
+  images/structural_engineer_profile_image.jpeg){: .align-center}
