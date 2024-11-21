@@ -4,8 +4,8 @@ collection: Undergraduate Course
 type: "Lab and Lecture"
 permalink: /teaching/2022-fall-teaching-1
 venue: "The University of Arizona, Civil Engineering"
-date: 2022-08-12
-location: "City, Country"
+date: 2023-08-12
+location: "Tucson, AZ, USA"
 ---
 
 In this course I taught a group of senior Undergraduate students. This course is meant to supplement
