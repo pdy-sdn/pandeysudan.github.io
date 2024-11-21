@@ -8,9 +8,9 @@ date: 2022-08-12
 location: "Tucson, AZ, USA"
 ---
 
-[Concrete Testing](/images/ConcreteTest.jpg){: .align-left width="300px"}
+![Concrete Testing](images/ConcreteTest.jpg){: .align-left width="300px"}
 
-[Concrete Curing](/images/ConcreteCuring.jpg){: .align-right width="300px"}
+![Concrete Curing](images/ConcreteCuring.jpg){: .align-right width="300px"}
 
 
 In this course I taught a group of Undergraduate students in College of Engineering. This course i meant to supplement
