@@ -2,13 +2,13 @@
 title: "Statics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-summer-teaching-1
 venue: "University of Arizona, Civil Engineering Department"
-date: 2021-08-08
+date: 2024-06-01
 location: "Tucson, AZ, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught a CE-214, statics in the summer of 2024.
 
 Heading 1
 ======

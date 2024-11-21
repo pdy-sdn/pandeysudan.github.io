@@ -8,14 +8,13 @@ date: 2022-08-12
 location: "City, Country"
 ---
 
-In this course I taught a group of Undergraduate students in College of Engineering. This course i meant to supplement
+In this course I taught a group of senior Undergraduate students. This course is meant to supplement
 the students' understanding and appreciation of material behavior and structural theory through
 personal contact with and observation of tests on common engineering materials and systems.
 Mainly, our test was focused on aggregates, concrete, wood, and steel. Sieve analysis, unit weight, absorption
 testing are the test covered for aggregates. Concrete mixing, test on freshly mixed concrete and hardened Concrete
 are covered in the course. Compressive and flexural strength of different types of wood are measured in the lab.
 Similarly, for steel, the tensile and torsion behavior are studied.
-
 
 Heading 1
 ======
