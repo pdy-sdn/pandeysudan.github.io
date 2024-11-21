@@ -16,6 +16,11 @@ testing are the test covered for aggregates. Concrete mixing, test on freshly mi
 are covered in the course. Compressive and flexural strength of different types of wood are measured in the lab.
 Similarly, for steel, the tensile and torsion behavior are studied.
 
+![Concrete Testing](/
+  images/ConcreteTest.jpg){: .align-left width="300px"}
+
+  ![Concrete Curing](/
+    images/ConcreteCuring.jpg){: .align-right width="300px"}
 
 Heading 1
 ======
