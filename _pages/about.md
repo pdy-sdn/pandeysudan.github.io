@@ -31,7 +31,7 @@ Seismic collectors and their connections are critical components that transfer i
 
 ## Selected Experience
 - **Graduate Research Assistant (2020–2026):** Multi-university research on seismic collectors, nonlinear modeling, and large-scale testing  
-- **Industry Experience:** Performance-based seismic design of tall buildings using **PEER TBI, LATBSDC/LATBSDE, ASCE 7, ASCE 41, and ACI**  
+- **Industry Experience:** Performance-based seismic design of tall buildings using **PEER TBI, LATBSDC, ASCE 7, ASCE 41, and ACI**  
 - **Wind Engineering:** Wind tunnel testing and post-processing for high-rise buildings  
 - **Teaching:** Instructor and TA for Steel Design, Statics, Mechanics of Solids, and Materials Laboratory
 
