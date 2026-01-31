@@ -1,27 +1,35 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Sudan Pandey | Structural & Earthquake Engineering"
 author_profile: true
+description: "Ph.D. candidate in structural engineering specializing in seismic collectors, performance-based seismic design, and large-scale experimental testing."
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi there, I'm Sudan Pandey
+Hi, I’m **Sudan Pandey**.
 
-I am a Ph.D. candidate in civil engineering at the University of Arizona.
+I am a **Ph.D. candidate in Civil Engineering (Structural Engineering)** at the **University of Arizona**. My research focuses on the **seismic performance of steel collector connections**, combining **large-scale experimental testing** and **advanced numerical modeling** to improve seismic design practice.
 
-My current research focuses on steel seismic collector connections Seismic collectors and their connections are crucial in transferring the inertial force from the floor or roof diaphragm to the vertical components of the seismic force resisting system during a seismic event. My research involves conducting physical testing of large scale collector connection at NHERI Lehigh and analytical studies using ANSYS, all aimed at enhancing our understanding of collector behavior and design practices.
+Seismic collectors and their connections are critical components that transfer inertial forces from floor and roof diaphragms to the vertical elements of the seismic force-resisting system during earthquakes. My work includes **large-scale testing at the NHERI Lehigh facility** and **high-fidelity finite element modeling using ANSYS**, aimed at enhancing understanding of collector behavior under extreme seismic demands.
 
-![Large Scale Collectot Connection Test Setup](images/MST-TEST-SETUP.jpg){: .align-right width="300px"}
+![Large-Scale Collector Connection Test Setup](images/MST-TEST-SETUP.jpg){: .align-right width="300px"}
 
-# Research Interests
-My research interests are in the seismic and wind engineering. I would like to contribute in making our build environment resilient. I have a work experience in performance based seismic design and wind tunnel testing of high rise buildings.
+## Research Interests
+- Seismic behavior and design of **steel collector connections**
+- **Performance-Based Seismic Design (PBSD)** of building structures
+- Large-scale experimental testing and validation of numerical models
+- **Wind engineering** and structural response of tall buildings
+- Resilient and high-performance structural systems
 
+## Selected Experience
+- **Graduate Research Assistant (2020–2026):** Multi-university research on seismic collectors, nonlinear modeling, and large-scale testing  
+- **Industry Experience:** Performance-based seismic design of tall buildings using **PEER TBI, LATBSDC/LATBSDE, ASCE 7, ASCE 41, and ACI**  
+- **Wind Engineering:** Wind tunnel testing and post-processing for high-rise buildings  
+- **Teaching:** Instructor and TA for Steel Design, Statics, Mechanics of Solids, and Materials Laboratory
 
-# Selected Experience
-I have two years of work experience in a performance based seismic design.
-
-I have three years of experience with wind tunnel testing of high rise buildings.
-
-I have four years of experience in teaching. I have taught and TA's various courses like Steel Design, Statics, Mechanics of Solids, and Civil Engineering Materials Lab in civil engineering.
+## Learn More
+- 📄 [Curriculum Vitae](/cv/)
+- 🎤 [Talks & Presentations](/talks/)
+- 📚 [Publications & Data](/publications/)
