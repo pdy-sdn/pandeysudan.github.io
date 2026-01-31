@@ -9,12 +9,11 @@ redirect_from:
 
 Hi there, I'm Sudan Pandey
 
-I am a Ph.D. graduate at the University of Arizona.
+I am a Ph.D. candidate in civil engineering at the University of Arizona.
 
+My current research focuses on steel seismic collector connections Seismic collectors and their connections are crucial in transferring the inertial force from the floor or roof diaphragm to the vertical components of the seismic force resisting system during a seismic event. My research involves conducting physical testing of large scale collector connection at NHERI Lehigh and analytical studies using ANSYS, all aimed at enhancing our understanding of collector behavior and design practices.
 
-I am currently working on steel seismic collectors, which are crucial in transferring the inertial force from the floor or roof diaphragm during a seismic event to the vertical components of the seismic force resisting system. My work involves conducting physical testing of large scale model in the lab and analytical studies using the finite element software, all aimed at enhancing our understanding of collector behavior and design practices.
-
-![Nepali Architecture](images/structure.jpg){: .align-right width="300px"}
+![Large Scale Collectot Connection Test Setup](images/MST-TEST-SETUP.jpg){: .align-right width="300px"}
 
 # Research Interests
 My research interests are in the seismic and wind engineering. I would like to contribute in making our build environment resilient. I have a work experience in performance based seismic design and wind tunnel testing of high rise buildings.
