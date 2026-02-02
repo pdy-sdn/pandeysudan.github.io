@@ -20,6 +20,8 @@ University of Arizona
 📍 Tucson, Arizona, USA
 **CV Date:** January 30, 2026
 
+## PDF Version
+url: /files/SP_CV.17SEP2025.pdf
 ---
 
 ## Education
