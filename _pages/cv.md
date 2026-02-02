@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-[**Download CV (PDF)**](/files/SP_CV_30JAN2026.pdf){: .btn .btn--primary }
+[**Download CV (PDF)**]({{ site.baseurl }}/files/SP_CV_30JAN2026.pdf){: .btn .btn--primary }
 
 
 ## Sudan Pandey
