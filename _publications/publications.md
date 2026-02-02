@@ -11,9 +11,8 @@ author_profile: true
 
 ## Journal Publications
 
-**Bokhari, I., Pandey, S., & Fleischman, R. B.** (2025).  
-*Experimental evaluation of welded interfaces between steel castings and round HSS for building construction.*  
-**Structures**, 74, 108521. Elsevier.
+*Bokhari, I., Pandey, S., & Fleischman, R. B.* (2025).  
+*Experimental evaluation of welded interfaces between steel castings and round HSS for building construction.**Structures*, 74, 108521. Elsevier.
 
 ---
 
@@ -42,4 +41,5 @@ author_profile: true
 6. **Pandey, S.**, Warnitchai, P., Vasanthapragash, N., Najam, F.  
    *Development of Modal Hysteretic Model for Tall Buildings with RC Shear Walls.*  
    **7th Asia Conference on Earthquake Engineering**, Bangkok, Thailand, 2017.
+
 
