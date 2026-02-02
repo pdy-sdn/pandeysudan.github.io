@@ -6,8 +6,8 @@
 
 main:
   - title: "Publications"
-    #url: /publications/
-    url: https://scholar.google.com/citations?hl=en&user=3by7zkIAAAAJ
+    url: /publications/
+    #url: https://scholar.google.com/citations?hl=en&user=3by7zkIAAAAJ
 
 
   - title: "Teaching"
@@ -20,8 +20,8 @@ main:
   #  url: /portfolio/
 
   - title: "CV"
-    #url: /cv/
-    url: /files/SP_CV.17SEP2025.pdf
+    url: /cv/
+    #url: /files/SP_CV.17SEP2025.pdf
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
