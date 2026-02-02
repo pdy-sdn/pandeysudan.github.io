@@ -11,6 +11,9 @@ redirect_from:
 
 ---
 
+[**Download CV (PDF)**](/files/SP_CV.17SEP2025.pdf){: .btn .btn--primary }
+
+
 ## Sudan Pandey
 
 **Ph.D. Candidate, Civil Engineering**
@@ -20,9 +23,6 @@ University of Arizona
 📍 Tucson, Arizona, USA
 **CV Date:** January 30, 2026
 
-## PDF Version
-url: /files/SP_CV.17SEP2025.pdf
----
 
 ## Education
 
