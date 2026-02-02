@@ -1,9 +1,8 @@
 ---
-
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
---------------------
+---
 
 ## Teaching Philosophy
 
@@ -74,3 +73,4 @@ Department of Civil & Architectural & Engineering Mechanics
 * Steel design and behavior
 * Seismic and wind engineering concepts for undergraduate curricula
 * Bridging theory, experimentation, and professional practice
+
