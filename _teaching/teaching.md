@@ -6,7 +6,7 @@ venue: ""
 date: 2026-02-01
 author_profile: true
 show_me-tadata: false
-----
+---
 
 ## Teaching Philosophy
 
@@ -77,6 +77,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Steel design and behavior
 * Seismic and wind engineering concepts for undergraduate curricula
 * Bridging theory, experimentation, and professional practice
+
 
 
 
