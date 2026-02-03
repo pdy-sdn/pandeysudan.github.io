@@ -8,7 +8,9 @@ main:
   - title: "Publications"
     url: /publications/
     #url: https://scholar.google.com/citations?hl=en&user=3by7zkIAAAAJ
-
+    
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/
@@ -16,8 +18,6 @@ main:
   - title: "Talks"
     url: /talks/
 
-  #- title: "Portfolio"
-  #  url: /portfolio/
 
   - title: "CV"
     url: /cv/
