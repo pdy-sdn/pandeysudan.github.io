@@ -9,8 +9,8 @@ main:
     url: /publications/
     #url: https://scholar.google.com/citations?hl=en&user=3by7zkIAAAAJ
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Experience"
+    url: /Experience/
 
   - title: "Teaching"
     url: /teaching/
@@ -18,10 +18,13 @@ main:
   - title: "Talks"
     url: /talks/
 
-
   - title: "CV"
     url: /cv/
     #url: /files/SP_CV.17SEP2025.pdf
+
+        
+#- title: "Portfolio"
+#   url: /portfolio/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
