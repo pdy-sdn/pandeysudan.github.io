@@ -40,6 +40,7 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
   </video>
 </div>
 
+###
 ## Cast Steel Joints
 
 ### Highlights:
