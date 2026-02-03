@@ -15,7 +15,7 @@ My teaching philosophy is grounded in clarity, engagement, and real-world releva
 
 ---
 
-## Instructor of Record
+## Instructor
 
 **University of Arizona**
 Department of Civil & Architectural & Engineering Mechanics
@@ -78,6 +78,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Steel design and behavior
 * Seismic and wind engineering concepts for undergraduate curricula
 * Bridging theory, experimentation, and professional practice
+
 
 
 
