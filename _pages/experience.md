@@ -21,7 +21,7 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 - Validation of models against experimental data
 - Parametric studies to evaluate collector connection performance
 
-<div style="margin-bottom: 30px;">
+### 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p><strong>Collector Connection Test Setup</strong></p>
@@ -40,7 +40,6 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
   </video>
 </div>
 
-###
 ## Cast Steel Joints
 
 ### Highlights:
@@ -52,8 +51,7 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 - Crack growth in cast steel joints
 - Modeling of cast steel material gradient properties 
 
-### Media
-
+###
 **Testing Setup Photos**  
 ![Collector Connection Test Setup](/images/MST-TEST-SETUP.jpg){: .align-center width="600px" }  
 
