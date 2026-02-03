@@ -3,6 +3,7 @@ title: "Development of modal hysteretic model for the seismic response analysis 
 collection: publications
 category: Conference Papers
 permalink: /publication/2019-10-01-paper-title-number-1
+published: false
 excerpt: 'This paper is about the modified flag shaped hysteresis model.'
 date: 2019-10-01
 venue: 'ACEE 2019'
