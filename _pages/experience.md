@@ -34,22 +34,17 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
   <source src="videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
 </video>  
 
-!**Simulation Video**  
-!<video width="600" controls>
-!  <source src="/videos/ANSYS_simulation.mp4" type="video/mp4">
-!</video>  
 
-
-## Steel Seismic Collector Connections
-
-During my Ph.D., I conducted large-scale experimental testing of steel seismic collector connections and performed high-fidelity nonlinear simulations in ANSYS. The goal was to understand the behavior and performance of collector connections under seismic loads.  
+## Cast Steel Joints
 
 ### Highlights:
 
-- Large-scale physical testing at NHERI Lehigh
-- 3D and 2D finite element modeling in ANSYS
-- Validation of models against experimental data
-- Parametric studies to evaluate collector connection performance
+- 3D and 2D finite element modeling of welded joints between cast steel and HSS sections using ANSYS
+- Failure prediction using ductile fracture index and void growth index
+- Low cycle Fatigue (LCF), High Cycle Fatigue (HCF) testing of welded joints
+- Prequalification of welded joints between cast steel and mild steel HSS
+- Crack growth in cast steel joints
+- Modeling of cast steel material gradient properties 
 
 ### Media
 
