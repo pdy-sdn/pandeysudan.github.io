@@ -21,7 +21,6 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 - Validation of models against experimental data
 - Parametric studies to evaluate collector connection performance
 
-### 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p><strong>Collector Connection Test Setup</strong></p>
@@ -51,12 +50,16 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 - Crack growth in cast steel joints
 - Modeling of cast steel material gradient properties 
 
-###
-**Testing Setup Photos**  
-![Collector Connection Test Setup](/images/MST-TEST-SETUP.jpg){: .align-center width="600px" }  
-
-**ANSYS Simulation Snapshots**  
-![ANSYS Simulation](/images/FE-TEST-SETUP.jpg){: .align-center width="600px" }
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p><strong>Collector Connection Test Setup</strong></p>
+    <img src="/images/MST-TEST-SETUP.jpg" width="500px" alt="Collector Connection Test Setup">
+  </div>
+  <div>
+    <p><strong>FE Model of Test Setup in ANSYS</strong></p>
+    <img src="/images/FE-TEST-SETUP.jpg" width="500px" alt="ANSYS Simulation">
+  </div>
+</div>
 
 ---
 
@@ -74,12 +77,30 @@ At AIT Solutions, I worked on **performance-based seismic design** of tall build
 ### Media
 
 **Perform-3D Model Photos**  
-![Perform-3D Model 1](/images/perform3d_model1.jpg){: .align-center width="600px" }  
-![Perform-3D Model 2](/images/perform3d_model2.jpg){: .align-center width="600px" }  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p><strong>Nonlinear 3D Model in ETABS</strong></p>
+    <img src="/images/3D-Model-ETABS.png" width="500px" alt="Collector Connection Test Setup">
+  </div>
+  <div>
+    <p><strong>Nonlinear 3D Model in Perform-3D</strong></p>
+    <img src="/images/3D-Model-P3D-CoreWall.png" width="500px" alt="ANSYS Simulation">
+  </div>
+</div>
+
 
 **Wind Tunnel Testing Photos**  
-![Wind Tunnel Photo 1](/images/wind_tunnel1.jpg){: .align-center width="600px" }  
-![Wind Tunnel Photo 2](/images/wind_tunnel2.jpg){: .align-center width="600px" }  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p><strong>Collector Connection Test Setup</strong></p>
+    <img src="/images/WT-SUPALAI-BKK-1.jpg" width="500px" alt="Collector Connection Test Setup">
+  </div>
+  <div>
+    <p><strong>FE Model of Test Setup in ANSYS</strong></p>
+    <img src="/images/WT-SUPALAI-BKK-2.jpg" width="500px" alt="ANSYS Simulation">
+  </div>
+</div>
+
 
 ---
 
