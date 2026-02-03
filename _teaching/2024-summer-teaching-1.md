@@ -3,6 +3,7 @@ title: "Statics"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-summer-teaching-1
+published: false
 venue: "University of Arizona, Civil Engineering Department"
 date: 2024-06-01
 location: "Tucson, AZ, USA"
