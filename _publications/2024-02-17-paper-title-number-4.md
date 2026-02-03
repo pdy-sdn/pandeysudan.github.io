@@ -3,6 +3,7 @@ title: "Experimental Study on HSS and Cast Joint subjected to Monotonic and LCF 
 collection: publications
 category: Journal Papers
 permalink: /publication/2024-02-17-paper-title-number-4
+published: false
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'Elsevier Structures'
