@@ -26,17 +26,18 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p><strong>Testing Setup Photos</strong></p>
-    <img src="/images/MST-TEST-SETUP.jpg" width="400px" alt="Collector Connection Test Setup">
+    <img src="/images/MST-TEST-SETUP.jpg" width="500px" alt="Collector Connection Test Setup">
   </div>
   <div>
-    <p><strong>ANSYS Simulation Snapshots</strong></p>
-    <img src="/images/FE-TEST-SETUP.jpg" width="400px" alt="ANSYS Simulation">
+    <p><strong>FE Model of Test Setup in ANSYS</strong></p>
+    <img src="/images/FE-TEST-SETUP.jpg" width="500px" alt="ANSYS Simulation">
   </div>
 </div>
 
+
 **Testing Video**  
 <video width="600" controls>
-  <source src="videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
+  <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
 </video>  
 
 ## Cast Steel Joints
