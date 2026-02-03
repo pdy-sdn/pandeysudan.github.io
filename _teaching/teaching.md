@@ -5,6 +5,7 @@ type: ""
 venue: "The University of Arizona"
 date: 2022-02-02
 author_profile: true
+show_metadata: false
 ---
 
 ## Teaching Philosophy
@@ -76,6 +77,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Steel design and behavior
 * Seismic and wind engineering concepts for undergraduate curricula
 * Bridging theory, experimentation, and professional practice
+
 
 
 
