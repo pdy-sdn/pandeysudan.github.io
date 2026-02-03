@@ -5,20 +5,21 @@ permalink: /experience/
 author_profile: true
 ---
 
-Welcome to my experince page! Here I highlight my **research projects** during my Ph.D. at the University of Arizona, as well as **industry projects** I worked on at AIT Solutions, Thailand.  
+Welcome to my experince page! Here I highlight my research projects during my Ph.D. at the University of Arizona, as well as industry projects I worked on at AIT Solutions, Thailand.  
 
 ---
 
-## Research Projects: Steel Seismic Collector Connections
+## Research Projects: 
+## Steel Seismic Collector Connections
 
 During my Ph.D., I conducted large-scale experimental testing of steel seismic collector connections and performed high-fidelity nonlinear simulations in ANSYS. The goal was to understand the behavior and performance of collector connections under seismic loads.  
 
 ### Highlights:
 
-- **Large-scale physical testing at NHERI Lehigh**
-- **3D and 2D finite element modeling in ANSYS**
-- **Validation of models against experimental data**
-- **Parametric studies to evaluate collector connection performance**
+- Large-scale physical testing at NHERI Lehigh
+- 3D and 2D finite element modeling in ANSYS
+- Validation of models against experimental data
+- Parametric studies to evaluate collector connection performance
 
 ### Media
 
@@ -31,16 +32,35 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 **Testing Video**  
 <video width="600" controls>
   <source src="videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>  
 
 !**Simulation Video**  
 !<video width="600" controls>
 !  <source src="/videos/ANSYS_simulation.mp4" type="video/mp4">
-!  Your browser does not support the video tag.
 !</video>  
 
+
+## Steel Seismic Collector Connections
+
+During my Ph.D., I conducted large-scale experimental testing of steel seismic collector connections and performed high-fidelity nonlinear simulations in ANSYS. The goal was to understand the behavior and performance of collector connections under seismic loads.  
+
+### Highlights:
+
+- Large-scale physical testing at NHERI Lehigh
+- 3D and 2D finite element modeling in ANSYS
+- Validation of models against experimental data
+- Parametric studies to evaluate collector connection performance
+
+### Media
+
+**Testing Setup Photos**  
+![Collector Connection Test Setup](/images/MST-TEST-SETUP.jpg){: .align-center width="600px" }  
+
+**ANSYS Simulation Snapshots**  
+![ANSYS Simulation](/images/FE-TEST-SETUP.jpg){: .align-center width="600px" }
+
 ---
+
 
 ## Industry Projects: AIT Solutions, Thailand
 
