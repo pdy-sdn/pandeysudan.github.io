@@ -35,10 +35,12 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 </div>
 
 
-**Application of Earthquake Loading Histories to Collector Connection**  
-<video width="600" controls>
-  <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
-</video>  
+<div style="margin-bottom: 30px;">
+  <p><strong>Application of Earthquake Loading Histories to Collector Connection</strong></p>
+  <video width="600" controls>
+    <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
+  </video>
+</div>
 
 ## Cast Steel Joints
 
