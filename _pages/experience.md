@@ -34,8 +34,7 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
   </div>
 </div>
 
-
-<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 60px;">
   <p><strong>Application of Earthquake Loading Histories to Collector Connection</strong></p>
   <video width="600" controls>
     <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
