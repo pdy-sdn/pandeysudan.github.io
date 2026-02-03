@@ -5,13 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-{% include base_path %}
-
----
-
-# Portfolio
-
-Welcome to my portfolio page! Here I highlight my **research projects** during my Ph.D. at the University of Arizona, as well as **industry projects** I worked on at AIT Solutions, Thailand.  
+Welcome to my experince page! Here I highlight my **research projects** during my Ph.D. at the University of Arizona, as well as **industry projects** I worked on at AIT Solutions, Thailand.  
 
 ---
 
@@ -29,20 +23,20 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 ### Media
 
 **Testing Setup Photos**  
-![Collector Connection Test Setup](images/MST-TEST-SETUP.jpg){: .align-center width="600px" }  
+![Collector Connection Test Setup](/images/MST-TEST-SETUP.jpg){: .align-center width="600px" }  
 
 **ANSYS Simulation Snapshots**  
-![ANSYS Simulation](images/FE-TEST-SETUP.jpg){: .align-center width="600px" }  
+![ANSYS Simulation](/images/FE-TEST-SETUP.jpg){: .align-center width="600px" }  
 
 **Testing Video**  
 <video width="600" controls>
-  <source src="videos/TEST_3_SYNCED_ANIMATION_REDU.mp4.mp4" type="video/mp4">
+  <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>  
 
 !**Simulation Video**  
 !<video width="600" controls>
-!  <source src="videos/ANSYS_simulation.mp4" type="video/mp4">
+!  <source src="/videos/ANSYS_simulation.mp4" type="video/mp4">
 !  Your browser does not support the video tag.
 !</video>  
 
@@ -61,12 +55,12 @@ At AIT Solutions, I worked on **performance-based seismic design** of tall build
 ### Media
 
 **Perform-3D Model Photos**  
-![Perform-3D Model 1](images/perform3d_model1.jpg){: .align-center width="600px" }  
-![Perform-3D Model 2](images/perform3d_model2.jpg){: .align-center width="600px" }  
+![Perform-3D Model 1](/images/perform3d_model1.jpg){: .align-center width="600px" }  
+![Perform-3D Model 2](/images/perform3d_model2.jpg){: .align-center width="600px" }  
 
 **Wind Tunnel Testing Photos**  
-![Wind Tunnel Photo 1](images/wind_tunnel1.jpg){: .align-center width="600px" }  
-![Wind Tunnel Photo 2](images/wind_tunnel2.jpg){: .align-center width="600px" }  
+![Wind Tunnel Photo 1](/images/wind_tunnel1.jpg){: .align-center width="600px" }  
+![Wind Tunnel Photo 2](/images/wind_tunnel2.jpg){: .align-center width="600px" }  
 
 ---
 
