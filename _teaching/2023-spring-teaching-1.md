@@ -3,6 +3,7 @@ title: "Civil Engineering Materials Lab"
 collection: teaching
 type: "Lab and Lecture"
 permalink: /teaching/2022-fall-teaching-1
+published: false
 venue: "The University of Arizona, Civil Engineering"
 date: 2023-01-12
 location: "Tucson, AZ, USA"
