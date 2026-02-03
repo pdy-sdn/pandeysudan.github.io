@@ -21,11 +21,10 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 - Validation of models against experimental data
 - Parametric studies to evaluate collector connection performance
 
-### Media
-
+<div style="margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><strong>Testing Setup Photos</strong></p>
+    <p><strong>Large Scale Collector Connection Experiment</strong></p>
     <img src="/images/MST-TEST-SETUP.jpg" width="500px" alt="Collector Connection Test Setup">
   </div>
   <div>
