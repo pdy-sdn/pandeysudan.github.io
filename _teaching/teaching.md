@@ -2,8 +2,9 @@
 permalink: /teaching/
 title: "Teaching"
 type: ""
-venue: "The University of Arizona"
-date: 2022-02-02
+venue: ""
+date: ""
+layout: single
 author_profile: true
 show_metadata: false
 ---
@@ -77,6 +78,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Steel design and behavior
 * Seismic and wind engineering concepts for undergraduate curricula
 * Bridging theory, experimentation, and professional practice
+
 
 
 
