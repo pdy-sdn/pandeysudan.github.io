@@ -2,6 +2,7 @@
 title: "Portfolio"
 excerpt: ""
 collection: portfolio
+layout: single
 show_metadata: false
 author_profile: true
 ---
