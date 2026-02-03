@@ -38,8 +38,9 @@ author_profile: true
    *Response Modification Analysis (RMA) for High-Rise RC Shear Wall Buildings.*  
    17th World Conference on Earthquake Engineering, Sendai, Japan, 2020.
 
-6. **Pandey, S.**, Warnitchai, P., Vasanthapragash, N., Najam, F.  
+6. Pandey, S., Warnitchai, P., Vasanthapragash, N., Najam, F.  
    *Development of Modal Hysteretic Model for Tall Buildings with RC Shear Walls.*  
-   **7th Asia Conference on Earthquake Engineering**, Bangkok, Thailand, 2017.
+   7th Asia Conference on Earthquake Engineering, Bangkok, Thailand, 2017.
+
 
 
