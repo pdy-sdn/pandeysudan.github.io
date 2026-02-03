@@ -3,6 +3,7 @@ title: "A response modification analysis (RMA) procedure to determine nonlinear 
 collection: publications
 category: Conference Papers
 permalink: /publication/2021-10-01-paper-title-number-3
+published: false
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-10-01
 venue: 'EERI'
