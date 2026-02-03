@@ -1,8 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-layout: single
-date: 2026-02-01
+show_metadata: false
 author_profile: true
 ---
 
@@ -75,6 +74,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Steel design and behavior
 * Seismic and wind engineering concepts for undergraduate curricula
 * Bridging theory, experimentation, and professional practice
+
 
 
 
