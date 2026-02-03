@@ -30,7 +30,7 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 
 **Testing Video**  
 <video width="600" controls>
-  <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4.mp4" type="video/mp4">
+  <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>  
 
