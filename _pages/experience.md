@@ -24,7 +24,7 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 <div style="margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><strong>Large Scale Collector Connection Experiment</strong></p>
+    <p><strong>Collector Connection Test Setup</strong></p>
     <img src="/images/MST-TEST-SETUP.jpg" width="500px" alt="Collector Connection Test Setup">
   </div>
   <div>
@@ -33,7 +33,7 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
   </div>
 </div>
 
-<div style="margin-bottom: 60px;">
+<div style="margin-bottom: 30px;">
   <p><strong>Application of Earthquake Loading Histories to Collector Connection</strong></p>
   <video width="600" controls>
     <source src="/videos/TEST_3_SYNCED_ANIMATION_REDU.mp4" type="video/mp4">
