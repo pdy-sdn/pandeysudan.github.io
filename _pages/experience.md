@@ -23,11 +23,16 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 
 ### Media
 
-**Testing Setup Photos**  
-![Collector Connection Test Setup](/images/MST-TEST-SETUP.jpg){: .align-center width="600px" }  
-
-**ANSYS Simulation Snapshots**  
-![ANSYS Simulation](/images/FE-TEST-SETUP.jpg){: .align-center width="600px" }  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p><strong>Testing Setup Photos</strong></p>
+    <img src="/images/MST-TEST-SETUP.jpg" width="300px" alt="Collector Connection Test Setup">
+  </div>
+  <div>
+    <p><strong>ANSYS Simulation Snapshots</strong></p>
+    <img src="/images/FE-TEST-SETUP.jpg" width="300px" alt="ANSYS Simulation">
+  </div>
+</div>
 
 **Testing Video**  
 <video width="600" controls>
