@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Experience"
-permalink: /experience/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
-
-Welcome to my experience page! Here, I highlight my research projects completed during my Ph.D. at the University of Arizona, as well as performance-based design (PBD) and wind engineering projects I worked on at AIT Solutions, Thailand.
 
 ---
 
