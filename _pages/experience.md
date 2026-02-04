@@ -51,6 +51,7 @@ I worked on the Cast Steel Components for Building Construction research project
 - Prequalification of welded joints for cast steel
 - Crack growth modeling
 
+### Photos:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p><strong>Bending Test Specimen and 3D FE Model in ANSYS</strong></p>
@@ -70,8 +71,7 @@ At AIT Solutions, I worked on **performance-based seismic design** of tall build
 - **Wind tunnel testing:** HFFB, cladding pressure, and pedestrian wind comfort
 - **Post-processing using MATLAB for design recommendations**
 
-
-**Perform-3D Model Photos**  
+### Photos:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p><strong>Nonlinear 3D Model in ETABS</strong></p>
