@@ -5,14 +5,14 @@ permalink: /experience/
 author_profile: true
 ---
 
-Welcome to my experince page! Here I highlight my research projects during my Ph.D. at the University of Arizona, as well as industry projects I worked on at AIT Solutions, Thailand.  
+Welcome to my experince page! Here I highlight my research projects during my Ph.D. at the University of Arizona, as well as PBD and Wind engineering projects I did at AIT Solutions, Thailand.  
 
 ---
 
 ## Research Projects: 
 ## Steel Seismic Collector Connections
 
-During my Ph.D., I conducted large-scale experimental testing of steel seismic collector connections and performed high-fidelity nonlinear simulations in ANSYS. The goal was to understand the behavior and performance of collector connections under seismic loads.  
+I pefromed large-scale experimental testing of steel seismic collector connections in collaboration with Lehigh University team. This research work is a part of a larger multi-university research project, led by the University of Arizona (UA) in collaboration with Lehigh University and the University of California, San Diego (UCSD), and funded by the National Science Foundation (NSF).The research’s main objective is to advance knowledge on the seismic performance, analysis, and design of collectors in steel buildings with composite floor and roof systems. The research involves both computational simulation and large-scale experiments. I was involved with large-scale experimental testing of steel seismic collector connections, and necessary analytical work. 
 
 ### Highlights:
 
@@ -39,16 +39,17 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
   </video>
 </div>
 
-## Cast Steel Joints
+---
+## Cast Steel Components for Building Construction
+I worked on the Cast Steel Components for Building Construction research project led by Dr. Robert B. Fleischman at the University of Arizona, an SFSA DID–funded effort. The project combined computational simulation with extensive physical testing. My role included conducting monotonic tension tests, low-cycle fatigue tests, and high-cycle fatigue tests, along with performing the necessary analytical work to interpret and support the experimental results.
 
 ### Highlights:
 
 - 3D and 2D finite element modeling of welded joints between cast steel and HSS sections using ANSYS
 - Failure prediction using ductile fracture index and void growth index
-- Low cycle Fatigue (LCF), High Cycle Fatigue (HCF) testing of welded joints
-- Prequalification of welded joints between cast steel and mild steel HSS
-- Crack growth in cast steel joints
-- Modeling of cast steel material gradient properties 
+- Low cycle Fatigue (LCF), High Cycle Fatigue (HCF) testing
+- Prequalification of welded joints for cast steel
+- Crack growth modeling
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
@@ -69,7 +70,6 @@ At AIT Solutions, I worked on **performance-based seismic design** of tall build
 - **Wind tunnel testing:** HFFB, cladding pressure, and pedestrian wind comfort
 - **Post-processing using MATLAB for design recommendations**
 
-### Media
 
 **Perform-3D Model Photos**  
 <div style="display: flex; justify-content: space-between; align-items: center;">
