@@ -52,15 +52,10 @@ During my Ph.D., I conducted large-scale experimental testing of steel seismic c
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><strong>Collector Connection Test Setup</strong></p>
-    <img src="/images/MST-TEST-SETUP.jpg" width="500px" alt="Collector Connection Test Setup">
+    <p><strong>Bending Test Specimen and 3D FE Model in ANSYS</strong></p>
+    <img src="/images/CAST-BENDING-SPECIMEN.jpg" width="600px" alt="Bending Test Specimen and 3D FE Model in ANSYS">
   </div>
-  <div>
-    <p><strong>FE Model of Test Setup in ANSYS</strong></p>
-    <img src="/images/FE-TEST-SETUP.jpg" width="500px" alt="ANSYS Simulation">
-  </div>
-</div>
-
+  
 ---
 
 
@@ -84,7 +79,7 @@ At AIT Solutions, I worked on **performance-based seismic design** of tall build
   </div>
   <div>
     <p><strong>Nonlinear 3D Model in Perform-3D</strong></p>
-    <img src="/images/3D-Model-P3D-CoreWall.png" width="500px" alt="ANSYS Simulation">
+    <img src="/images/3D-Model-P3D-CoreWall.png" width="400px" alt="ANSYS Simulation">
   </div>
 </div>
 
@@ -92,12 +87,12 @@ At AIT Solutions, I worked on **performance-based seismic design** of tall build
 **Wind Tunnel Testing Photos**  
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><strong>Collector Connection Test Setup</strong></p>
-    <img src="/images/WT-SUPALAI-BKK-1.jpg" width="500px" alt="Collector Connection Test Setup">
+    <p><strong>Wind tunnel testing: HFFB</strong></p>
+    <img src="/images/WT-SUPALAI-BKK-1.jpg" width="500px" alt="Wind tunnel testing: HFFB">
   </div>
   <div>
-    <p><strong>FE Model of Test Setup in ANSYS</strong></p>
-    <img src="/images/WT-SUPALAI-BKK-2.jpg" width="500px" alt="ANSYS Simulation">
+    <p><strong>Wind tunnel testing: HFFB</strong></p>
+    <img src="/images/WT-SUPALAI-BKK-2.jpg" width="500px" alt="Wind tunnel testing: HFFB">
   </div>
 </div>
 
