@@ -12,7 +12,7 @@ Welcome to my experince page! Here I highlight my research projects during my Ph
 ## Research Projects: 
 ## Steel Seismic Collector Connections
 
-I pefromed large-scale experimental testing of steel seismic collector connections in collaboration with Lehigh University team. This research work is a part of a larger multi-university research project, led by the University of Arizona (UA) in collaboration with Lehigh University and the University of California, San Diego (UCSD), and funded by the National Science Foundation (NSF).The research’s main objective is to advance knowledge on the seismic performance, analysis, and design of collectors in steel buildings with composite floor and roof systems. The research involves both computational simulation and large-scale experiments. I was involved with large-scale experimental testing of steel seismic collector connections, and necessary analytical work. 
+This research work is a part of a larger multi-university research project, led by the University of Arizona (UA) in collaboration with Lehigh University and the University of California, San Diego (UCSD), and funded by the National Science Foundation (NSF).The research’s main objective is to advance knowledge on the seismic performance, analysis, and design of collectors in steel buildings with composite floor and roof systems. The research involves both computational simulation and large-scale experiments. I was involved with large-scale experimental testing of steel seismic collector connections, and necessary analytical work. 
 
 ### Highlights:
 
@@ -20,7 +20,8 @@ I pefromed large-scale experimental testing of steel seismic collector connectio
 - 3D and 2D finite element modeling in ANSYS
 - Validation of models against experimental data
 - Parametric studies to evaluate collector connection performance
-
+- 
+### Photos:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p><strong>Collector Connection Test Setup</strong></p>
@@ -40,6 +41,7 @@ I pefromed large-scale experimental testing of steel seismic collector connectio
 </div>
 
 ---
+
 ## Cast Steel Components for Building Construction
 I worked on the Cast Steel Components for Building Construction research project led by Dr. Robert B. Fleischman at the University of Arizona, an SFSA DID–funded effort. The project combined computational simulation with extensive physical testing. My role included conducting monotonic tension tests, low-cycle fatigue tests, and high-cycle fatigue tests, along with performing the necessary analytical work to interpret and support the experimental results.
 
@@ -68,9 +70,9 @@ At AIT Solutions, I worked on **performance-based seismic design** of tall build
 
 ### Highlights:
 
-- **Seismic design using Perform-3D and ETABS**
-- **Wind tunnel testing:** HFFB, cladding pressure, and pedestrian wind comfort
-- **Post-processing using MATLAB for design recommendations**
+- Seismic design using Perform-3D and ETABS
+- Wind tunnel testing: HFFB, cladding pressure, and pedestrian wind comfort
+- Post-processing using MATLAB for design recommendations
 
 ### Photos:
 <div style="display: flex; justify-content: space-between; align-items: center;">
