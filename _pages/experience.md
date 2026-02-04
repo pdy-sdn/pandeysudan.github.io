@@ -52,6 +52,7 @@ I worked on the Cast Steel Components for Building Construction research project
 - Crack growth modeling
 
 ### Photos:
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p><strong>Bending Test Specimen and 3D FE Model in ANSYS</strong></p>
