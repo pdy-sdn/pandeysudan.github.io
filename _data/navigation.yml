@@ -9,8 +9,8 @@ main:
     url: /publications/
     #url: https://scholar.google.com/citations?hl=en&user=3by7zkIAAAAJ
     
-  - title: "Experience"
-    url: /experience/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/
