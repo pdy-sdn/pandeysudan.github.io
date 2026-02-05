@@ -42,13 +42,9 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
     <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
+    <img src="/images/7thACEE-2018-Ashraf.jpg" width="600px" alt="Collector Connection Test Setup">
   </div>
   <div>
-    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Group.jpg" width="500px" alt="ANSYS Simulation">
-  </div>
-</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
@@ -56,10 +52,6 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
     <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
   </div>
   <div>
-    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Group.jpg" width="500px" alt="ANSYS Simulation">
-  </div>
-</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
@@ -67,6 +59,7 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
     <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
   </div>
   <div>
+
 
 
 
