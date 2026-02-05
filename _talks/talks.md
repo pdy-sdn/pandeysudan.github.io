@@ -39,24 +39,30 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
 ---
 
 ### Media
+**2018, 7th ACEE Conference, Bangkok, Thailand**
   <div>
-    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Ashraf.jpg" alt="Collector Connection Test Setup" style="width:900px;" class="align-center">
+    <img src="/images/7thACEE-2018-Ashraf.jpg" alt="Collector Connection Test Setup" style="width:600px" class="align-center">
     <figcaption style="font-size:0.9em; text-align:center;">
 
     </figcaption>
   </div>
 
-
   <div>
-    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Group.jpg" width="900px" alt="Collector Connection Test Setup">
+    <img src="/images/7thACEE-2018-Group.jpg" width="600px" class="align-center" alt="Collector Connection Test Setup">
+        <figcaption style="font-size:0.9em; text-align:center;">
+
+    </figcaption>
   </div>
 
+**2022, 12th NCEE Conference, Salt Lake City, Utah, USA** 
   <div>
-    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Group.jpg" width="900px" alt="Collector Connection Test Setup">
+    <p><strong></strong></p>
+    <img src="/images/12NCEE.jpg" alt="Collector Connection Test Setup" style="width:600px" class="align-center">
+    <figcaption style="font-size:0.9em; text-align:center;">
+
+    </figcaption>
   </div>
+
 
 
 
