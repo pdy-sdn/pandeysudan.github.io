@@ -41,13 +41,32 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
 ### Media
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
-    <p><strong>Collector Connection Test Setup</strong></p>
+    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
     <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
   </div>
   <div>
-    <p><strong>FE Model of Test Setup in ANSYS</strong></p>
+    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
     <img src="/images/7thACEE-2018-Group.jpg" width="500px" alt="ANSYS Simulation">
   </div>
 </div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <div>
+    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
+    <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
+  </div>
+  <div>
+    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
+    <img src="/images/7thACEE-2018-Group.jpg" width="500px" alt="ANSYS Simulation">
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <div>
+    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
+    <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
+  </div>
+  <div>
+
 
 
