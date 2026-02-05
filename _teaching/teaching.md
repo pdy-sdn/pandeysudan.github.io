@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /teaching/
 title: "Teaching"
 type: "Overview"
@@ -77,6 +78,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Steel design and behavior
 * Seismic and wind engineering concepts for undergraduate curricula
 * Bridging theory, experimentation, and professional practice
+
 
 
 
