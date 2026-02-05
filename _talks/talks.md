@@ -39,26 +39,26 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
 ---
 
 ### Media
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
     <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Ashraf.jpg" width="600px" alt="Collector Connection Test Setup">
-  </div>
-  <div>
+    <img src="/images/7thACEE-2018-Ashraf.jpg" alt="Collector Connection Test Setup" style="width:900px;" class="align-center">
+    <figcaption style="font-size:0.9em; text-align:center;">
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div>
-    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
+    </figcaption>
   </div>
-  <div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+
   <div>
     <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
-    <img src="/images/7thACEE-2018-Ashraf.jpg" width="500px" alt="Collector Connection Test Setup">
+    <img src="/images/7thACEE-2018-Group.jpg" width="900px" alt="Collector Connection Test Setup">
   </div>
+
   <div>
+    <p><strong>2018 7th ACEE Conference, Bangkok, Thailand</strong></p>
+    <img src="/images/7thACEE-2018-Group.jpg" width="900px" alt="Collector Connection Test Setup">
+  </div>
+
+
 
 
 
