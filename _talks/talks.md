@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /talks/
 title: "Talks & Presentations"
 author_profile: true
@@ -48,4 +49,5 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
     <img src="/images/7thACEE-2018-Group.jpg" width="500px" alt="ANSYS Simulation">
   </div>
 </div>
+
 
