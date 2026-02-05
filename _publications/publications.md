@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /publications/
 title: "Publications"
 author_profile: true
@@ -20,7 +21,7 @@ author_profile: true
 
 1. Pandey, S., Sause, R., Fleischman, R. B., Ricles, J., Marullo, T. M.  
    *Large-Scale Experiments of Steel Seismic Collectors.*  
-   13th U.S. National Conference on Earthquake Engineering (NCEE), Portland, OR, 2026. *(In Review)*
+   13th U.S. National Conference on Earthquake Engineering (NCEE), Portland, OR, 2026. *(Accepted)*
 
 2. Pandey, S., Sause, R., Fleischman, R. B., Ricles, J., Uang, C. M., Li, C.  
    *Behavior and Performance of Steel Seismic Collector Connections.*  
@@ -41,6 +42,7 @@ author_profile: true
 6. Pandey, S., Warnitchai, P., Vasanthapragash, N., Najam, F.  
    *Development of Modal Hysteretic Model for Tall Buildings with RC Shear Walls.*  
    7th Asia Conference on Earthquake Engineering, Bangkok, Thailand, 2017.
+
 
 
 
