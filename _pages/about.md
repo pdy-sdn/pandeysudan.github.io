@@ -28,7 +28,7 @@ Seismic collectors and their connections are critical components that transfer i
 - **Wind Engineering:** Wind tunnel testing and post-processing for high-rise buildings  
 - **Teaching:** Behavior and Design of Structural Systems, Steel Design, Statics, Mechanics of Solids, and Materials Laboratory Testing
 
-## TECHNICAL SKILLS
+## Technical Skills
 -	FE Modeling: ANSYS, OpenSees, Perform-3D, ETABS, SAP 2000, RISA, spcolumn
 -	Programming & Data: MATLAB, R, HPC (Slurm, bash), Python
 
