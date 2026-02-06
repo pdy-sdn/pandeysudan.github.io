@@ -81,30 +81,42 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
 
 ---
 ### Photos
+
 **Nonlinear Modeling**
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div>
-    <p><strong>Nonlinear 3D Model in ETABS</strong></p>
-    <img src="/images/3D-Model-ETABS.png" width="250px" alt="Nonlinear 3D Model in ETABS">
-  </div>
-  <div>
-    <p><strong>Nonlinear 3D Model in Perform-3D</strong></p>
-    <img src="/images/3D-Model-P3D-CoreWall.png" width="200px" alt="Nonlinear 3D Model in Perform-3D">
-  </div>
+<div class="photo-row">
+  <figure class="photo-figure">
+    <figcaption><strong>Nonlinear 3D Model in ETABS</strong></figcaption>
+    <img src="/images/3D-Model-ETABS.png"
+         alt="Nonlinear 3D Model in ETABS"
+         class="photo-img-md">
+  </figure>
+
+  <figure class="photo-figure">
+    <figcaption><strong>Nonlinear 3D Model in Perform-3D</strong></figcaption>
+    <img src="/images/3D-Model-P3D-CoreWall.png"
+         alt="Nonlinear 3D Model in Perform-3D"
+         class="photo-img-sm">
+  </figure>
 </div>
 
 ---
+
 **Wind Tunnel Testing Photos**
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div>
-    <p><strong>Wind Tunnel Testing: HFFB</strong></p>
-    <img src="/images/WT-ArtWork.jpg" height="250px" alt="Wind Tunnel Testing HFFB">
-  </div>
-  <div>
-    <img src="/images/IMG_20180703_163217_HDR.jpg" height="200px" alt="Wind Tunnel Testing HFFB">
-  </div>
+<div class="photo-row">
+  <figure class="photo-figure">
+    <figcaption><strong>Wind Tunnel Testing: HFFB</strong></figcaption>
+    <img src="/images/WT-ArtWork.jpg"
+         alt="Wind tunnel testing setup using HFFB method"
+         class="photo-img-tall">
+  </figure>
+
+  <figure class="photo-figure">
+    <img src="/images/IMG_20180703_163217_HDR.jpg"
+         alt="Wind tunnel testing experiment in progress"
+         class="photo-img-tall">
+  </figure>
 </div>
 
 ---
