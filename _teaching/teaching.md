@@ -58,6 +58,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Supervised laboratory experiments and guided students in data collection, analysis, and technical reporting
 * Held regular office hours and provided individualized academic support
 * Integrated design codes (AISC, ASCE, ACI) and real-world case studies into coursework
+* Taught structural analysis and design software, including RISA, SAP2000, and spcolumn
 
 
 ---
@@ -75,6 +76,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Building systems
 * Structural dynamics
 * Seismic and Wind engineering 
+
 
 
 
