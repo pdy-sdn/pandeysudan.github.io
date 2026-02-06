@@ -26,9 +26,9 @@ University of Arizona<br />
 
 ## Education
 
-**Ph.D., Civil Engineering** — University of Arizona *(Expected May 2026)*
-**M.S., Structural Engineering** — Asian Institute of Technology, Thailand, 2017
-**B.E., Civil Engineering** — Tribhuvan University, Nepal, 2010
+**Ph.D., Civil Engineering** — University of Arizona *(Expected May 2026)* <br />
+**M.S., Structural Engineering** — Asian Institute of Technology, Thailand, 2017 <br />
+**B.E., Civil Engineering** — Tribhuvan University, Nepal, 2010 <br />
 
 ---
 
