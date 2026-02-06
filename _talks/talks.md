@@ -45,7 +45,7 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
        alt="Sudan Pandey with Ashraf Habibullah at the 7th ACEE Conference"
        style="width:600px;">
   <figcaption style="font-size:0.9em; text-align:left;">
-    A great moment at the 7th ACEE with Ashraf Habibullah
+    A great moment at the 7th ACEE with Ashraf Habibullah.
   </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
        alt="Networking session at the 7th ACEE Conference"
        style="width:600px;">
   <figcaption style="font-size:0.9em; text-align:left;">
-    Networking at the 7th ACEE
+    Networking at the 7th ACEE.
   </figcaption>
 </figure>
 
@@ -64,9 +64,10 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
        alt="University of Arizona alumni at the 12th NCEE Conference"
        style="width:600px;">
   <figcaption style="font-size:0.9em; text-align:left;">
-    Connecting with University of Arizona alumni at the 12th NCEE
+    Connecting with University of Arizona alumni at the 12th NCEE.
   </figcaption>
 </figure>
+
 
 
 
