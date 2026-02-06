@@ -40,28 +40,34 @@ Graduate Research Seminar, University of Arizona — *13 November 2024*
 
 ### Media
 **2018, 7th ACEE Conference, Bangkok, Thailand**
-  <div>
-    <img src="/images/7thACEE-2018-Ashraf.jpg" alt="Collector Connection Test Setup" style="width:600px" class="align-center">
-    <figcaption style="font-size:0.9em; text-align:center;">
-      A great moment at the 7th ACEE with Ashraf Habibullah
-    </figcaption>
-  </div>
+<figure class="align-center">
+  <img src="/images/7thACEE-2018-Ashraf.jpg"
+       alt="Sudan Pandey with Ashraf Habibullah at the 7th ACEE Conference"
+       style="width:600px;">
+  <figcaption style="font-size:0.9em; text-align:center;">
+    A great moment at the 7th ACEE with Ashraf Habibullah
+  </figcaption>
+</figure>
 
-  <div>
-    <img src="/images/7thACEE-2018-Group.jpg" width="600px" class="align-center" alt="Collector Connection Test Setup">
-        <figcaption style="font-size:0.9em; text-align:center;">
-          Networking at the 7th ACEE
-        </figcaption>
-  </div>
+<figure class="align-center">
+  <img src="/images/7thACEE-2018-Group.jpg"
+       alt="Networking session at the 7th ACEE Conference"
+       style="width:600px;">
+  <figcaption style="font-size:0.9em; text-align:center;">
+    Networking at the 7th ACEE
+  </figcaption>
+</figure>
 
 **2022, 12th NCEE Conference, Salt Lake City, Utah, USA** 
-  <div>
-    <p><strong></strong></p>
-    <img src="/images/12NCEE.jpg" alt="Collector Connection Test Setup" style="width:600px" class="align-center">
-    <figcaption style="font-size:0.9em; text-align:center;">
-      Connecting with University of Arizona alumni at the 12th NCEE
-    </figcaption>
-  </div>
+<figure class="align-center">
+  <img src="/images/12NCEE.jpg"
+       alt="University of Arizona alumni at the 12th NCEE Conference"
+       style="width:600px;">
+  <figcaption style="font-size:0.9em; text-align:center;">
+    Connecting with University of Arizona alumni at the 12th NCEE
+  </figcaption>
+</figure>
+
 
 
 
