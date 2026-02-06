@@ -16,7 +16,7 @@ show_me-tadata: false
 **University of Arizona**
 Department of Civil & Architectural & Engineering Mechanics
 
-* **CE 438 – Behavior of Building Systems**
+* **CE 438 – Behavior and Design of Structural Systems**
   *Spring 2026* | Enrollment: 31
 
 * **CE 389 – Materials Testing Laboratory**
@@ -76,6 +76,7 @@ Department of Civil & Architectural & Engineering Mechanics
 * Building systems
 * Structural dynamics
 * Seismic and Wind engineering 
+
 
 
 
