@@ -79,7 +79,9 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
 - Wind tunnel testing: **HFFB**, **cladding pressure**, and **pedestrian wind comfort** studies
 - Post-processing and data interpretation using **MATLAB** for design recommendations
 
+---
 ### Photos
+**Nonlinear Modeling**
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
