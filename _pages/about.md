@@ -14,26 +14,27 @@ I am a **Ph.D. candidate in Civil Engineering (Structural Engineering)** at the 
 
 Seismic collectors and their connections are critical components that transfer inertial forces from floor and roof diaphragms to the vertical elements of the seismic force-resisting system during earthquakes. My work includes **large-scale testing at the NHERI Lehigh facility** and **high-fidelity finite element modeling using ANSYS**, aimed at enhancing understanding of collector behavior under extreme seismic demands.
 
+{%- comment -%}
 <figure>
   <img src="images/MST-TEST-SETUP.jpg" alt="Large-scale collector connection test setup at NHERI Lehigh" style="width:900px;" class="align-center">
   <figcaption style="font-size:0.9em; text-align:center;">
     Large-scale seismic collector connection test setup at the NHERI Lehigh EF.
   </figcaption>
 </figure>
-
+{%- endcomment -%}
 
 ## Research Interests
 - Seismic behavior and design of **steel collector connections**
-- **Performance-Based Seismic Design (PBSD)** of building structures
-- Large-scale experimental testing and validation of numerical models
-- **Wind engineering** and structural response of tall buildings
-- Resilient and high-performance structural systems
+- **Nonlinear modeling**, analysis and design
+- Large-scale **testing** and validation of **numerical models**
+- **Performance-based seismic design (PBSD)** of building structures
+- **Wind engineering** and **Wind resistant design** of tall buildings
 
 ## Selected Experience
-- **Graduate Research Assistant (2020–2026):** Multi-university research on seismic collectors, nonlinear modeling, and large-scale testing  
+- **Graduate Research Assistant (2020–2026):** Multi-university research on seismic collectors, nonlinear modeling, structural analysis and design, and large-scale testing  
 - **Industry Experience:** Performance-based seismic design of tall buildings using **PEER TBI, LATBSDC, ASCE 7, ASCE 41, and ACI**  
 - **Wind Engineering:** Wind tunnel testing and post-processing for high-rise buildings  
-- **Teaching:** Instructor and TA for Steel Design, Statics, Mechanics of Solids, and Materials Laboratory
+- **Teaching:** Behavior and Design of Structural Systems, Steel Design, Statics, Mechanics of Solids, and Materials Laboratory Testing
 
 ## Learn More
 - 📄 [Curriculum Vitae](/cv/)
