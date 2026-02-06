@@ -81,43 +81,44 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
 
 ---
 ### Photos
-
 **Nonlinear Modeling**
 
-<div class="photo-row">
-  <figure class="photo-figure">
-    <figcaption><strong>Nonlinear 3D Model in ETABS</strong></figcaption>
+<div style="display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap;">
+  <div style="text-align:center;">
+    <p><strong>Nonlinear 3D Model in ETABS</strong></p>
     <img src="/images/3D-Model-ETABS.png"
-         alt="Nonlinear 3D Model in ETABS"
-         class="photo-img-md">
-  </figure>
+         width="250"
+         alt="Nonlinear 3D Model in ETABS">
+  </div>
 
-  <figure class="photo-figure">
-    <figcaption><strong>Nonlinear 3D Model in Perform-3D</strong></figcaption>
+  <div style="text-align:center;">
+    <p><strong>Nonlinear 3D Model in Perform-3D</strong></p>
     <img src="/images/3D-Model-P3D-CoreWall.png"
-         alt="Nonlinear 3D Model in Perform-3D"
-         class="photo-img-sm">
-  </figure>
+         width="200"
+         alt="Nonlinear 3D Model in Perform-3D">
+  </div>
 </div>
 
 ---
 
 **Wind Tunnel Testing Photos**
 
-<div class="photo-row">
-  <figure class="photo-figure">
-    <figcaption><strong>Wind Tunnel Testing: HFFB</strong></figcaption>
+<div style="display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap;">
+  <div style="text-align:center;">
+    <p><strong>Wind Tunnel Testing: HFFB</strong></p>
     <img src="/images/WT-ArtWork.jpg"
-         alt="Wind tunnel testing setup using HFFB method"
-         class="photo-img-tall">
-  </figure>
+         height="250"
+         alt="Wind tunnel testing setup using HFFB method">
+  </div>
 
-  <figure class="photo-figure">
+  <div style="text-align:center;">
     <img src="/images/IMG_20180703_163217_HDR.jpg"
-         alt="Wind tunnel testing experiment in progress"
-         class="photo-img-tall">
-  </figure>
+         height="200"
+         alt="Wind tunnel testing experiment in progress">
+  </div>
 </div>
+
+
 
 ---
 
