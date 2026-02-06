@@ -9,10 +9,6 @@ author_profile: true
 show_me-tadata: false
 ---
 
-## Teaching Philosophy
-
-My teaching philosophy is grounded in clarity, engagement, and real-world relevance. I strive to help students develop a strong conceptual understanding of structural behavior while also building confidence in applying engineering principles to practical problems. I emphasize clear communication, active problem-solving, and the connection between theory, design codes, and real structural systems. Drawing from my research and industry experience, I aim to create a classroom environment where students understand not only *how* to solve a problem, but *why* a particular engineering decision is made.
-
 ---
 
 ## Instructor
@@ -61,8 +57,8 @@ Department of Civil & Architectural & Engineering Mechanics
 * Developed and graded homework assignments, quizzes, laboratory reports, and examinations
 * Supervised laboratory experiments and guided students in data collection, analysis, and technical reporting
 * Held regular office hours and provided individualized academic support
-* Integrated design codes (AISC, ASCE) and real-world case studies into coursework
-* Mentored undergraduate students on engineering judgment, professionalism, and ethical practice
+* Integrated design codes (AISC, ASCE, ACI) and real-world case studies into coursework
+
 
 ---
 
@@ -74,10 +70,11 @@ Department of Civil & Architectural & Engineering Mechanics
 
 ## Educational Interests
 
-* Structural engineering education
 * Steel design and behavior
-* Seismic and wind engineering concepts for undergraduate curricula
-* Bridging theory, experimentation, and professional practice
+* Reinforced Concrete Design
+* Building systems
+* Structural dynamics
+* Seismic and Wind engineering 
 
 
 
