@@ -76,7 +76,7 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
 ### Highlights
 
 - Performance-based seismic design using **Perform-3D** and **ETABS**
-- Wind tunnel testing: **HFFB**, cladding pressure, and pedestrian wind comfort studies
+- Wind tunnel testing: **HFFB**, **cladding pressure**, and **pedestrian wind comfort** studies
 - Post-processing and data interpretation using **MATLAB** for design recommendations
 
 ### Photos
@@ -84,11 +84,11 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
     <p><strong>Nonlinear 3D Model in ETABS</strong></p>
-    <img src="/images/3D-Model-ETABS.png" width="500px" alt="Nonlinear 3D Model in ETABS">
+    <img src="/images/3D-Model-ETABS.png" width="250px" alt="Nonlinear 3D Model in ETABS">
   </div>
   <div>
     <p><strong>Nonlinear 3D Model in Perform-3D</strong></p>
-    <img src="/images/3D-Model-P3D-CoreWall.png" width="400px" alt="Nonlinear 3D Model in Perform-3D">
+    <img src="/images/3D-Model-P3D-CoreWall.png" width="200px" alt="Nonlinear 3D Model in Perform-3D">
   </div>
 </div>
 
