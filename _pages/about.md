@@ -14,15 +14,6 @@ I am a **Ph.D. candidate in Civil Engineering (Structural Engineering)** at the 
 
 Seismic collectors and their connections are critical components that transfer inertial forces from floor and roof diaphragms to the vertical elements of the seismic force-resisting system during earthquakes. My current research work includes **large-scale testing of collector connections at the NHERI Lehigh facility** and **high-fidelity finite element modeling using ANSYS**, aimed at enhancing understanding of collector behavior under extreme seismic demands.
 
-{%- comment -%}
-<figure>
-  <img src="images/MST-TEST-SETUP.jpg" alt="Large-scale collector connection test setup at NHERI Lehigh" style="width:900px;" class="align-center">
-  <figcaption style="font-size:0.9em; text-align:center;">
-    Large-scale seismic collector connection test setup at the NHERI Lehigh EF.
-  </figcaption>
-</figure>
-{%- endcomment -%}
-
 
 ## Research Interests
 - Seismic behavior and design of **steel collector connections**
