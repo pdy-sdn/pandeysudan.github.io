@@ -19,7 +19,7 @@ redirect_from:
 **Ph.D. Candidate, Civil Engineering**
 University of Arizona
 📧 [pandeysudan@arizona.edu](mailto:pandeysudan@arizona.edu) | 📞 423-381-4858
-🌐 [https://pdy-sdn.github.io/pandeysudan.github.io/](https://pdy-sdn.github.io/pandeysudan.github.io/)
+🌐 [https://pandeysudan.github.io/](https://pandeysudan.github.io/)
 📍 Tucson, Arizona, USA
 **CV Date:** January 30, 2026
 
@@ -51,7 +51,7 @@ University of Arizona, Tucson *(2020–2026)*
 
 **Graduate Teaching Assistant / Instructor** — University of Arizona *(2022–2026)*
 
-* Instructor of record for **Behavior of Building Systems**, **Materials Testing Laboratory**, and **Statics**.
+* Instructor for **Behavior of Building Systems**, **Materials Testing Laboratory**, and **Statics**.
 * Teaching assistant for **Statics**, **Steel Design**, and **Mechanics of Solids**.
 
 ---
@@ -65,8 +65,8 @@ University of Arizona, Tucson *(2020–2026)*
 
 **Wind and Structural Engineer** — AIT Solutions, Thailand *(2017–2018)*
 
-* Conducted wind tunnel testing including **HFFB**, cladding pressure tests, and pedestrian-level wind studies using Irwin probes.
-* Performed post-processing of wind tunnel data using **MATLAB**, including development of design wind loads, cladding pressure coefficients, and wind comfort analyses.
+* Conducted wind tunnel testing including **HFFB**, **cladding pressure tests**, and **pedestrian-level wind studies** using Irwin probes.
+* Performed post-processing of wind tunnel data using **MATLAB**, including development of design wind loads, cladding pressure coefficients, and **wind comfort** analyses.
 
 **Civil Engineer** — ERMC Pvt. Ltd., Nepal *(2015)*
 
