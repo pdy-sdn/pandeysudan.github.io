@@ -16,11 +16,11 @@ redirect_from:
 
 ## Sudan Pandey
 
-**Ph.D. Candidate, Civil Engineering**
-University of Arizona
-📧 [pandeysudan@arizona.edu](mailto:pandeysudan@arizona.edu) | 📞 423-381-4858
-🌐 [https://pandeysudan.github.io/](https://pandeysudan.github.io/)
-📍 Tucson, Arizona, USA
+**Ph.D. Candidate, Civil Engineering**<br />
+University of Arizona<br />
+📧 [pandeysudan@arizona.edu](mailto:pandeysudan@arizona.edu) | 📞 423-381-4858<br />
+🌐 [https://pandeysudan.github.io/](https://pandeysudan.github.io/)<br />
+📍 Tucson, Arizona, USA<br />
 **CV Date:** January 30, 2026
 
 
