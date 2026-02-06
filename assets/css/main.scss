@@ -40,37 +40,4 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Photo layout */
-.photo-row {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 30px;
-  flex-wrap: wrap;
-  margin: 1.5rem 0;
-}
 
-.photo-figure {
-  text-align: center;
-  margin: 0;
-}
-
-.photo-figure figcaption {
-  font-size: 0.9em;
-  margin-bottom: 0.4rem;
-}
-
-.photo-img-sm {
-  max-width: 200px;
-  width: 100%;
-}
-
-.photo-img-md {
-  max-width: 250px;
-  width: 100%;
-}
-
-.photo-img-tall {
-  max-height: 250px;
-  width: auto;
-}
