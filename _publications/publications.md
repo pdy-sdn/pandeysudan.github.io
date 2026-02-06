@@ -17,6 +17,15 @@ author_profile: true
 
 ---
 
+## Dataset Publications
+1.Fleischman, Robert, Richard Sause, James Ricles, Sudan Pandey, and Thomas Marullo (2026).
+   *Material Tests, in Advancing Knowledge on the Performance of Seismic Collectors in Steel Building Structures.* Designsafe-CI
+
+2. Fleischman, Robert, Richard Sause, James Ricles, Sudan Pandey, and Thomas Marullo (2026).
+   *Predetermined Collector Force and Rotation Histories Tests on TFW, in Advancing Knowledge on the Performance of Seismic Collectors in Steel Building Structures.* Designsafe-CI
+
+---
+
 ## Conference Publications
 
 1. Pandey, S., Sause, R., Fleischman, R. B., Ricles, J., Marullo, T. M.  
@@ -42,6 +51,7 @@ author_profile: true
 6. Pandey, S., Warnitchai, P., Vasanthapragash, N., Najam, F.  
    *Development of Modal Hysteretic Model for Tall Buildings with RC Shear Walls.*  
    7th Asia Conference on Earthquake Engineering, Bangkok, Thailand, 2017.
+
 
 
 
