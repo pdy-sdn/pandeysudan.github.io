@@ -101,7 +101,7 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
   </div>
   <div>
     <p><strong>Wind Tunnel Testing: HFFB</strong></p>
-    <img src="/images/WT-SUPALAI-BKK-2.jpg" width="500px" alt="Wind Tunnel Testing HFFB">
+    <img src="/images/IMG_20180703_163217_HDR.jpg" width="500px" alt="Wind Tunnel Testing HFFB">
   </div>
 </div>
 
