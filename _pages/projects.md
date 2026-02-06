@@ -98,13 +98,13 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
     <p><strong>Wind Tunnel Testing: HFFB</strong></p>
-    <img src="/images/WT-SUPALAI-BKK-1.jpg" width="400px" alt="Wind Tunnel Testing HFFB">
+    <img src="/images/WT-SUPALAI-BKK-1.jpg" height="200px" alt="Wind Tunnel Testing HFFB">
   </div>
   <div>
-    <img src="/images/IMG_20180703_163217_HDR.jpg" width="200px" alt="Wind Tunnel Testing HFFB">
+    <img src="/images/IMG_20180703_163217_HDR.jpg" height="200px" alt="Wind Tunnel Testing HFFB">
   </div>
 </div>
 
 ---
 
-This page will be updated as new projects and media are added.
+
