@@ -85,7 +85,11 @@ University of Arizona, Tucson *(2020–2026)*
 * Tribhuvan University Merit Scholarship (2010–2014)
 
 ---
+## Technical Skills
+* FE Modeling: ANSYS, OpenSees, Perform-3D, ETABS, SAP 2000, RISA, spcolumn
+*	Programming & Data: MATLAB, R, HPC (Slurm, bash), Python
 
+---
 ## Professional Service
 
 * Paper reviewer, 12th and 13th U.S. National Conference on Earthquake Engineering (NCEE)
