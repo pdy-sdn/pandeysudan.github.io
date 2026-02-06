@@ -105,7 +105,6 @@ At **AIT Solutions**, I worked on **performance-based seismic design** of tall b
 
 <div style="display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap;">
   <div style="text-align:left;">
-    <p><strong>Wind Tunnel Testing: HFFB</strong></p>
     <img src="/images/WT-ArtWork.jpg"
          width="400"
          alt="Wind tunnel testing setup using HFFB method">
